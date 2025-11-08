@@ -39,7 +39,7 @@ const About = () => {
           >
             <div className="relative">
               <img
-                src="/src/assets/hero-2.jpg"
+                src="/assets/hero-2.jpg"
                 alt="Traditional spice preparation"
                 className="rounded-2xl shadow-spice w-full h-[500px] object-cover"
                 onError={(e) => {

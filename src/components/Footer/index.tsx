@@ -36,7 +36,7 @@ const Footer = () => {
             <div>
               <div className="flex items-center space-x-3 mb-4">
                 <img
-                  src="/src/assets/logo.png"
+                  src="/assets/logo.png"
                   alt="Archana Masale"
                   className="h-12 w-auto"
                   onError={(e) => {

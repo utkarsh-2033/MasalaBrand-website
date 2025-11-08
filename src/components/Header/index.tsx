@@ -47,7 +47,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img
-              src="/src/assets/logo.png"
+              src="/assets/logo.png"
               alt="Archana Masale Logo"
               className="h-12 md:h-14 w-auto"
               onError={(e) => {

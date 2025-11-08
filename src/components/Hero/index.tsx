@@ -9,7 +9,7 @@ const Hero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/hero-1.jpg"
+          src="/assets/hero-1.jpg"
           alt="Traditional Indian spices and masala jars"
           className="w-full h-full object-cover"
           onError={(e) => {
@@ -158,7 +158,7 @@ const Hero = () => {
           <div className="hidden lg:block relative">
             <div className="relative animate-fade-in">
               <img
-                src="/src/assets/hero-2.jpg"
+                src="/assets/hero-2.jpg"
                 alt="Woman with traditional Indian spices"
                 className="rounded-2xl shadow-2xl w-full h-[600px] object-cover"
                 onError={(e) => {
